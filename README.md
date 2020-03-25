@@ -2,7 +2,7 @@
 
 This script is for  __Python 3 and higher.__
 
-#### About
+###
 Python script for rebooting Huawei B618 and B715 LTE router. This script can run directly on Asus Merlin WRT. You do not need a smart plug, Raspberry Pi etc, just a router running on Merlin firmware connected to your Huawei router in the same network. 
 
 #### Requirements
