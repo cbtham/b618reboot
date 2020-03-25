@@ -3,7 +3,7 @@
 This script is for  __Python 3 and higher.__
 
 ###
-This script runs directly on Asus WRT-Merlin. You do not need a smart plug, Raspberry Pi etc, just a router running on Merlin firmware connected to your Huawei router in the same network. 
+Runs directly on Asus WRT-Merlin router. You do not need a smart plug, Raspberry Pi etc, just a router running on Merlin firmware connected to your Huawei router in the same network. 
 
 #### Requirements
 1. [Asus WRT-Merlin](https://www.asuswrt-merlin.net/) router.<br/>
