@@ -1,10 +1,11 @@
-# b618reboot
+# Reboot B618 directly from Asus Merlin WRT Router - No additional hardware required
 
-Please note this script was written for  __Python 3 and higher.__
+Note this script is for  __Python 3 and higher.__
 
 #### About
-Simple Python script for rebooting Huawei B618 and B715 LTE router via web interface.
+Python script for rebooting Huawei B618 and B715 LTE router. This script can run directly on Asus Merlin WRT. You do not need a smart plug, Raspberry Pi etc, just a router running on Merlin firmware connected to your Huawei router in the same network. 
 
+#### Installation
 
 
 My router occasionally drops the LTE connection (whilst still responding on the LAN interface) and the quick fix is to reboot the device using its web interface. Which was ok for a while, but as I was going on holiday and wanted to keep the LTE connection running to have access to the security camera, I decided to quickly write a script which I could run from cron on my home Linux server to trigger the reboot when the connection goes down. 
