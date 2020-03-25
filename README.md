@@ -10,8 +10,15 @@ This script can run directly on Asus WRT-Merlin. You do not need a smart plug, R
 2. Asuswrt-Merlin Terminal Menu [(amtm)](https://diversion.ch/amtm.html)<br/>
 3. Python (install via amtm)
 
-#### Installation
-
+#### The setup overview
+1. Install Merlin<br/>
+2. Install amtm<br/>
+3. Install Diversion(Seperate tutorial)<br/>
+4. Install Python 3<br/>
+5. Install Git<br/>
+6. Setting up the script<br/>
+7. Setup cronjob schedule<br/>
+8. Profit?
 
 My router occasionally drops the LTE connection (whilst still responding on the LAN interface) and the quick fix is to reboot the device using its web interface. Which was ok for a while, but as I was going on holiday and wanted to keep the LTE connection running to have access to the security camera, I decided to quickly write a script which I could run from cron on my home Linux server to trigger the reboot when the connection goes down. 
 
