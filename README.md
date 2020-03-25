@@ -8,6 +8,7 @@ Python script for rebooting Huawei B618 and B715 LTE router. This script can run
 #### Requirements
 1. [Asus WRT-Merlin](https://www.asuswrt-merlin.net/) router.<br/>
 2. Asuswrt-Merlin Terminal Menu [(amtm)](https://diversion.ch/amtm.html)<br/>
+3. Python (install via amtm)
 
 #### Installation
 
