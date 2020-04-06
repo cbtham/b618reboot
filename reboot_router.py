@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/tmp/mnt/diversion/entware/bin/python3
 """ reboots the Huawei 618 router (and potentially others with similar firmware)  """
 import xml.etree.ElementTree as ET
 import sys
